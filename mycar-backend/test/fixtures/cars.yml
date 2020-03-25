@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  color: MyString
+  mileage: 
+  purchased_date: 2019-09-19
+
+two:
+  model: MyString
+  color: MyString
+  mileage: 
+  purchased_date: 2019-09-19
